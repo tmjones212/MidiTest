@@ -1,0 +1,16 @@
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\MidiTest.exe.config
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\MidiTest.exe
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\MidiTest.pdb
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.csprojAssemblyReference.cache
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.Properties.Resources.resources
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.csproj.GenerateResource.cache
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.csproj.CoreCompileInputs.cache
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.exe
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.pdb
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\alsa-sharp.dll
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\Commons.Music.Midi.dll
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\Melanchall.DryWetMidi.dll
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\alsa-sharp.pdb
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\Commons.Music.Midi.pdb
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\bin\Debug\Melanchall.DryWetMidi.xml
+C:\Users\trent.jones\source\repos\MidiTest\MidiTest\obj\Debug\MidiTest.csproj.CopyComplete
